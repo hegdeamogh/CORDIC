@@ -124,8 +124,8 @@ Note: vectoring mode magnitude output includes the CORDIC gain K ≈ 1.6468. Div
 ## Simulation
 
 ### Tools
-- Vivado 2023.x (simulation and synthesis)
-- Python 3.x (golden reference)
+- Vivado 2025.2.1 (simulation and synthesis)
+- Python 3.1 (golden reference)
 
 ### Running the Testbench in Vivado
 
